@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello 
+
+My name is **Iraj** I am a student, designer, and developer. 
+
+I like working on many thing such as, Product design, Front-end development, iOS apps this would be [Swift](https://developer.apple.com/swift/), Creative tech. Umm what is creative tech? Creative tech is where design and code meet. I am currently learning 3D sesign since I wanted to make a game but had no idea how to make assets. That is about it for me well most of the public files I have are class work so this might not be the best place to learn about me. Check my portfolio 
 
 <!--
 **IR4JT/IR4JT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
